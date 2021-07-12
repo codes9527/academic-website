@@ -26,7 +26,7 @@ date_format: Jan 2006
 item:
 - certificate_url: http://so.moe.gov.cn/s?siteCode=bm05000001&tab=all&qt=%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91
   date_end: ""
-  date_start: "2016"
+  date_start: "Jan 2016"
   description: "It's a prize from Chinese government to encourage students who made great achievements"
   organization: Ministry of Education of the People's Republic of China
   organization_url: http://www.moe.gov.cn/
@@ -34,7 +34,7 @@ item:
   url: ""
 - certificate_url: ""
   date_end: ""
-  date_start: "2018"
+  date_start: "Jun 2018"
   description: only 1% student could get this exam-free reconmendation from the university
   organization: Jiangxi University of Finance and Economics
   organization_url: http://www.jxufe.edu.cn//
@@ -42,7 +42,7 @@ item:
   url: ""
 - certificate_url: http://wyxy.jxufe.edu.cn/
   date_end: ""
-  date_start: "2019"
+  date_start: "Jun 2019"
   description: University's prize for students who have excellent English skills.
   organization: School of Foreign Languages, Jiangxi University of Finance and Economics
   organization_url: http://wyxy.jxufe.edu.cn/
@@ -50,7 +50,7 @@ item:
   url: 
 - certificate_url: http://grs.jxufe.edu.cn/
   date_end: ""
-  date_start: "2019"
+  date_start: "Jul 2019"
   description: An award for talented new student in the Unniversity's Graduate School
   organization: Graduate School, Jiangxi University of Finance and Economics
   organization_url: http://grs.jxufe.edu.cn/
@@ -58,7 +58,7 @@ item:
   url: ""
 - certificate_url: http://rhd361.com/special/news?id=58d22a9b17e84f0d883542cdef6a8a05
   date_end: ""
-  date_start: "2020"
+  date_start: "Jan 2020"
   description: "Mainly presented the paper about Crowed Out Effect"
   organization: School of Finance, Jiangxi University of Finance and Economics
   organization_url: http://finance.jxufe.edu.cn//
@@ -66,7 +66,7 @@ item:
   url: ""
 - certificate_url: http://grs.jxufe.edu.cn/news-show-3368.html
   date_end: ""
-  date_start: "2020"
+  date_start: "Mar 2020"
   description: "Scholarship for outstanding researchers"
   organization: Graduate School, Jiangxi University of Finance and Economics
   organization_url: http://grs.jxufe.edu.cn/
@@ -82,7 +82,7 @@ item:
   url: ""
 - certificate_url: http://oec.jxufe.edu.cn/
   date_end: ""
-  date_start: "2020"
+  date_start: "Aug 2020"
   description: "Got the only one place from university to study abroad with funds"
   organization: International Exchange and Cooperation Office, Jiangxi University of Finance and Economics
   organization_url: http://oec.jxufe.edu.cn/

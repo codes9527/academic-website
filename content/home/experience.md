@@ -27,7 +27,7 @@ experience:
     company_url: http://kjjr.jxufe.edu.cn/news-list-rcostf.html
     company_logo: org-BD
     location: Jiangxi
-    date_start: '2019'
+    date_start: 'Sept 2019'
     date_end: ''
     description: |2-
          * Writing paper about:"How does the Pandemic-Outbreak Influence International-Trade Companies?"
@@ -38,7 +38,7 @@ experience:
     company_url: ''
     company_logo: org-FM
     location: Hong Kong
-    date_start: '2020'
+    date_start: 'Aug 2020'
     date_end: ''
     description: |2-
          * Accomplished the thesis about Risk measurement of REITs in Hong Kong market.
@@ -49,7 +49,7 @@ experience:
     company_url: 
     company_logo: org-EC
     location: Jiangxi
-    date_start: '2019'
+    date_start: 'Oct 2019'
     date_end: ''
     description: |2-
           * "Municipal Bonds’ Influence on Local Companies"
@@ -60,7 +60,7 @@ experience:
     company_url: ''
     company_logo: org-F
     location: Jiangxi
-    date_start: '2018'
+    date_start: 'Dec 2018'
     date_end: ''
     description: "Application of Block Chain Technology in International Trade"
   - title: Teaching Assistant
@@ -68,8 +68,8 @@ experience:
     company_url: https://www.usc.edu.tw/
     company_logo: org-sc
     location: Tai Wan
-    date_start: '2017'
-    date_end: '2018'
+    date_start: 'Nov 2017'
+    date_end: 'Dec 2018'
     description: |2-
 Assisted him to arrange and adjust teaching schedule; 
 Marked students'assignment and exam papers, organize learning materials, 
@@ -80,7 +80,7 @@ also gave tutorial sessions to explain exercises' difficulties.
     company_url: 'http://www1.ccb.com/cn/home/indexv3.html'
     company_logo: org-CB
     location: Nan Jing
-    date_start: '2018'
+    date_start: 'Nov 2018'
     date_end: ''
     description: |2-
 Made statistics on the accounts receivable and bad debts of the bank weekly, 
@@ -91,7 +91,7 @@ also analyzed data and information about different industries' investment risk.
     company_url: 
     company_logo: org-rz
     location: Jiangxi
-    date_start: '2019'
+    date_start: 'Oct 2019'
     date_end: ''
     description: |2-
 Help him rearrange the teaching syllabus, correct assignments and set test
