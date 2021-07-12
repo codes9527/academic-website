@@ -22,28 +22,81 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Deputy leader
+    company: BEIDE Financial Lab
+    company_url: http://kjjr.jxufe.edu.cn/news-list-rcostf.html
+    company_logo: org-BD
+    location: Jiangxi
+    date_start: '2019'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+         * Writing paper about:"How does the Pandemic-Outbreak Influence International-Trade Companies?"
+         * DID method; Mediating Effect; Moderating Effect;
+         * Stata 15 MP; R-Studio
+  - title: Leader
+    company: Financial Modeling Project
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: org-FM
+    location: Hong Kong
+    date_start: '2020'
+    date_end: ''
+    description: |2-
+         * Accomplished the thesis about Risk measurement of REITs in Hong Kong market.
+         * GARCH; VAR;
+         * Visual Basic for Application; R-Studio.
+  - title: Researchers
+    company: Elite Club
+    company_url: 
+    company_logo: org-EC
+    location: Jiangxi
+    date_start: '2019'
+    date_end: ''
+    description: |2-
+          * "Municipal Bonds’ Influence on Local Companies"
+          * Clustering robust standard error; Leverage Ratio; Fixed Effect;
+          * Stata 15 MP; Python
+  - title: Student
+    company: Faker Project
+    company_url: ''
+    company_logo: org-F
+    location: Jiangxi
+    date_start: '2018'
+    date_end: ''
+    description: "Application of Block Chain Technology in International Trade"
+  - title: Teaching Assistant
+    company: Hisieh Chung-Hsing (Former President of Tai Wan Shih Chien University)
+    company_url: https://www.usc.edu.tw/
+    company_logo: org-sc
+    location: Tai Wan
+    date_start: '2017'
+    date_end: '2018'
+    description: |2-
+Assisted him to arrange and adjust teaching schedule; 
+Marked students'assignment and exam papers, organize learning materials, 
+also gave tutorial sessions to explain exercises' difficulties.
+        
+  - title: Internship
+    company: Analyst in Risk Management Department, China Construction Bank.
+    company_url: 'http://www1.ccb.com/cn/home/indexv3.html'
+    company_logo: org-CB
+    location: Nan Jing
+    date_start: '2018'
+    date_end: ''
+    description: |2-
+Made statistics on the accounts receivable and bad debts of the bank weekly, 
+wrote fund operations reports and credit risk reports, 
+also analyzed data and information about different industries' investment risk.
+  - title: Teaching Assistant
+    company: Dr. Robert Zacca
+    company_url: 
+    company_logo: org-rz
+    location: Jiangxi
+    date_start: '2019'
+    date_end: ''
+    description: |2-
+Help him rearrange the teaching syllabus, correct assignments and set test
+questions for students; Installed web switches, 
+fixed its’ bugs in software and damages in hardware.
 
 design:
   columns: '2'

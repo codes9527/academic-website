@@ -10,7 +10,8 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+#title: 'Accomplish&shy;ments'
+title: 'Awards'
 subtitle:
 
 # Date format
@@ -23,29 +24,69 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: http://so.moe.gov.cn/s?siteCode=bm05000001&tab=all&qt=%E5%8A%B1%E5%BF%97%E5%A5%96%E5%AD%A6%E9%87%91
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2016"
+  description: "It's a prize from Chinese government to encourage students who made great achievements"
+  organization: Ministry of Education of the People's Republic of China
+  organization_url: http://www.moe.gov.cn/
+  title: National Endeavor Award
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2018"
+  description: only 1% student could get this exam-free reconmendation from the university
+  organization: Jiangxi University of Finance and Economics
+  organization_url: http://www.jxufe.edu.cn//
+  title: Postgraduate Recommendation
+  url: ""
+- certificate_url: http://wyxy.jxufe.edu.cn/
+  date_end: ""
+  date_start: "2019"
+  description: University's prize for students who have excellent English skills.
+  organization: School of Foreign Languages, Jiangxi University of Finance and Economics
+  organization_url: http://wyxy.jxufe.edu.cn/
+  title: English Visual-Audio-Oral Awards
+  url: 
+- certificate_url: http://grs.jxufe.edu.cn/
+  date_end: ""
+  date_start: "2019"
+  description: An award for talented new student in the Unniversity's Graduate School
+  organization: Graduate School, Jiangxi University of Finance and Economics
+  organization_url: http://grs.jxufe.edu.cn/
+  title: Freshmen Merit Scholarship
+  url: ""
+- certificate_url: http://rhd361.com/special/news?id=58d22a9b17e84f0d883542cdef6a8a05
+  date_end: ""
+  date_start: "2020"
+  description: "Mainly presented the paper about Crowed Out Effect"
+  organization: School of Finance, Jiangxi University of Finance and Economics
+  organization_url: http://finance.jxufe.edu.cn//
+  title: Third Prize in University’s Annual Academic Conference
+  url: ""
+- certificate_url: http://grs.jxufe.edu.cn/news-show-3368.html
+  date_end: ""
+  date_start: "2020"
+  description: "Scholarship for outstanding researchers"
+  organization: Graduate School, Jiangxi University of Finance and Economics
+  organization_url: http://grs.jxufe.edu.cn/
+  title: Second-Class Academic Scholarship
+  url: ""
+- certificate_url: http://grs.jxufe.edu.cn/news-show-3368.html
+  date_end: ""
+  date_start: "2020"
+  description: "Scholarship for outstanding researchers"
+  organization: Graduate School, Jiangxi University of Finance and Economics
+  organization_url: http://grs.jxufe.edu.cn/
+  title: First-Class Academic Scholarship
+  url: ""
+- certificate_url: http://oec.jxufe.edu.cn/
+  date_end: ""
+  date_start: "2020"
+  description: "Got the only one place from university to study abroad with funds"
+  organization: International Exchange and Cooperation Office, Jiangxi University of Finance and Economics
+  organization_url: http://oec.jxufe.edu.cn/
+  title: Fully Funded by University to study in Hong Kong
   url: ""
 
 design:
